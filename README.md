@@ -1,3 +1,12 @@
+Team Name- Hackstorm
+Team leader- Mayank Ary
+Team member- 
+1 . Aman kr singh
+2 . Mayank Sagar
+3 . Bittu Kumar
+4 . Mayank Ary
+
+
 # isl-ai-translator
 Real-time Sign Language to Speech Translator using Computer Vision and Web Interface
 
